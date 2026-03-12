@@ -1,0 +1,12 @@
+# Original WordPress backup files
+TROLL GAMES.htm
+TROLL GAMES_files/
+TROLL GAMES.mhtml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
